@@ -35,7 +35,9 @@ const Hero = () => {
         <div className='flex flex-1 flex-col justify-center'>
           <img src={headerimg}  alt='header-img' className='w-[100%] h-[100%] mx-auto'/>
         </div>
-      </div>
+      </div> 
+      <div className='absolute right-0 -pr-[50px] -mt-[200px] z-[0] md:w-[20%] w-[30%] h-[50%] white__gradient'/>      
+           
     </section>
   )
 }

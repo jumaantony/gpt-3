@@ -7,7 +7,9 @@ const Navbar = () => {
     const [toggle, setToggle] = useState(false)
 
     return (
-        <div className='text-white w-full flex p-6'>            
+        <div className='text-white w-full flex p-6'> 
+            <div className='absolute z-[0] md:w-[20%] w-[50%] h-[60%] white__gradient'/>      
+            
             {/* Desktop Navbar */}
             <ul className='flex flex-1 flex-row list-none md:flex hidden'>
                 {/* Text - Logo */}

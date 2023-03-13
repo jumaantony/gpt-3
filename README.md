@@ -4,6 +4,8 @@
 
 This project is created using reactJs and Tailwind CSS. 
 
+You can view the live project [here](https://jumaantony.github.io/gpt-3/)
+
 It is a transformation of a [Figma Design](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A15&t=BfNdVveop8rOXOJR-0).
 
 ![Alt text](./gpt3.png)

@@ -6,6 +6,7 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Trusted from './components/Trusted';
 import WhatisGpt from './components/WhatisGpt';
+import Feature from './components/Feature';
 
 
 
@@ -16,6 +17,7 @@ const App = () => {
       <Hero />
       <Trusted />
       <WhatisGpt />
+      <Feature />
     </div>
 )}
 

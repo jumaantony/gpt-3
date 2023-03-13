@@ -7,6 +7,7 @@ import Hero from './components/Hero';
 import Trusted from './components/Trusted';
 import WhatisGpt from './components/WhatisGpt';
 import Feature from './components/Feature';
+import Blog from './components/Blog';
 
 
 
@@ -18,6 +19,7 @@ const App = () => {
       <Trusted />
       <WhatisGpt />
       <Feature />
+      <Blog />
     </div>
 )}
 

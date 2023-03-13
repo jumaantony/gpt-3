@@ -32,6 +32,16 @@ const Feature = () => {
         </div>
       </div>
 
+      <div className='text-black line p-10 mx-14 my-5 rounded'>
+        <p className='text-sm'>
+            Register Early to Get Started
+        </p>
+
+        <h1 className='font-bold text-2xl'>
+            Register today & start exploring the endless possibilities.
+        </h1>
+      </div>
+
 
     </section>
   )

@@ -14,12 +14,14 @@ import Footer from './components/Footer';
 const App = () => {
   return (
     <div className='w-full overflow-hidden'>
-      <Navbar />
-      <Hero />
-      <Trusted />
-      <WhatisGpt />
-      <Feature />
-      <Blog />
+      <div className='mx-10'>
+        <Navbar />
+        <Hero />
+        <Trusted />
+        <WhatisGpt />
+        <Feature />
+        <Blog />
+      </div>
       <Footer />
     </div>
 )}

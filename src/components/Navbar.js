@@ -8,7 +8,7 @@ const Navbar = () => {
 
     return (
         <div className='text-white w-full flex p-6'> 
-            <div className='absolute z-[0] md:w-[20%] w-[50%] h-[60%] white__gradient'/>      
+            <div className='absolute -ml-[50px] z-[0] md:w-[20%] w-[50%] h-[20%] white__gradient'/>      
             
             {/* Desktop Navbar */}
             <ul className='flex flex-1 flex-row list-none md:flex hidden'>

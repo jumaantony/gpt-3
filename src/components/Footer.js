@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <footer className='mt-5'>
-      <h1 className='text-gradient font-bold text-3xl text-center pt-10'>
+      <h1 className='text-gradient font-bold text-3xl text-center pt-10 mx-10'>
       Do you want to step into the <br/> future before others
       </h1>
 

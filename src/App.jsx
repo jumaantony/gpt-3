@@ -8,7 +8,7 @@ import Trusted from './components/Trusted';
 import WhatisGpt from './components/WhatisGpt';
 import Feature from './components/Feature';
 import Blog from './components/Blog';
-
+import Footer from './components/Footer';
 
 
 const App = () => {
@@ -20,6 +20,7 @@ const App = () => {
       <WhatisGpt />
       <Feature />
       <Blog />
+      <Footer />
     </div>
 )}
 

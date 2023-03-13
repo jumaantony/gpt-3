@@ -14,7 +14,7 @@ import Footer from './components/Footer';
 const App = () => {
   return (
     <div className='w-full overflow-hidden'>
-      <div className='mx-10'>
+      <div className='mx-0 sm:mx-10'>
         <Navbar />
         <Hero />
         <Trusted />

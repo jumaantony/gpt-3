@@ -57,9 +57,9 @@ const Navbar = () => {
                     }
                     {/* Menu Items */}
                     
-                    <div className={`${toggle ? 'block' : 'hidden'} `}>
+                    <div className={`${toggle ? 'block' : 'hidden'}`}>
                         
-                        <ul className='flex flex-1 flex-row list-none bg-black-gradient mt-10 pl-4 pr-2 rounded'>
+                        <ul className='flex flex-1 flex-row list-none mobile-nav pb-4 pt-4 w-full mt-10 pl-16 pr-12 rounded'>
 
                             <nav className='mt-1'>
                                 {navLinks.map((nav, index) => (

@@ -104,7 +104,7 @@ background: linear-gradient(to right, #0072ff, #00c6ff); /* W3C, IE 10+/ Edge, F
   background: #042C54;
 }
 
-footer{
+.mobile-nav, footer{
   background: #031B34;
   ;
 }
